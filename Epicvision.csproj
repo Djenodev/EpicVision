@@ -7,8 +7,8 @@
     <ProjectGuid>{6630f2d7-bd52-4072-bfa7-863f3d0c5da0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EpicVision</RootNamespace>
-    <AssemblyName>EpicVision</AssemblyName>
+    <RootNamespace>GoS-EpicVision</RootNamespace>
+    <AssemblyName>GoS-EpicVision</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <OutputPath>bin\Debug\</OutputPath>
